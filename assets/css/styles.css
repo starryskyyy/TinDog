@@ -123,3 +123,6 @@ body.loading {
     background-position: center;
 }
 
+.txt-learn{
+    text-align: justify !important;
+}
