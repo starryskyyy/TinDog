@@ -1,11 +1,10 @@
 html,
 body {
     height: 100vh;
+    font-family: 'Open Sans', sans-serif;
 }
 
-body {
-    font-family: 'Poppins', sans-serif;
-}
+
 /* Default styling for the image */
 
   /* Hide the image on screens smaller than 576px (sm) */
